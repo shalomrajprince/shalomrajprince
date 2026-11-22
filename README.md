@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**shalomrajprince/shalomrajprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shalom Raj 👋
 
-Here are some ideas to get you started:
+MCA Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 Currently pursuing MCA
+- 💻 Interested in Software Development
+- 🌱 Learning Java, Python and Web Development
+- 🚀 Building practical projects
+
+## Technical Skills
+- Languages: Java, Python, C
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Django REST Framework
+- Database: SQL, SQLite
+- Tools: Git, GitHub
+
+## My Projects
+- CampusQ – Campus Queue Management System
+- Mall Customer Clustering – Machine Learning Project
+
+## Connect With Me
+- GitHub: https://github.com/shalomrajprince
+- LinkedIn: https://www.linkedin.com/in/shalomrajprince/
+
